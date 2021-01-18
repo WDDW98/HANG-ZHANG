@@ -12,7 +12,7 @@
 
 
 
-function [L1_SC, L2_SC, V_L2_car] = Traffic_Scenario_3(SN,SV1)
+function [L1_SC, L2_SC, V_L2_car] = SC(SN,SV1)
 
 % ------------------------
 % 1. Prepare Vairables
