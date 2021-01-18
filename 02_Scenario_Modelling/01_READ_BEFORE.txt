@@ -1,0 +1,19 @@
+
+Functions include creating scenarios, applying correlation, extrapolating load effects. 
+
+Please check your WIM data following SM_C Head Table.xlsx. 
+At least 49 columns are same as SM_C Head Table.xlsx, the rest part please fill by 0. 
+
+Please ensure your WIM data has been applied proper arrival process and saved as Veh_L1.mat and Veh_L2.mat. L1 is lane 1, L2 is lane 2.  
+
+
+if you have any question please contact:
+
+Hang Zhang 
+373035193@qq.com
+
+Michael Quilligan
+Michael.Quilligan@ul.ie
+
+Enjoy your code time 
+Hang
