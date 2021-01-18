@@ -1,0 +1,17 @@
+
+Functions include applying arrival process, creating scenarios, applying correlation, extrapolating load effects. 
+
+Please check your WIM data following SM_C Head Table.xlsx. 
+At least 49 columns are same as SM_C Head Table.xlsx, the rest part please fill by 0. 
+
+
+if you have any question please contact:
+
+Hang Zhang 
+373035193@qq.com
+
+Michael Quilligan
+Michael.Quilligan@ul.ie
+
+Enjoy your code time 
+Hang
