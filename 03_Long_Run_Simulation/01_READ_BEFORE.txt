@@ -1,0 +1,18 @@
+
+Functions include applying arrival process, creating scenarios, applying correlation, create noise, long run simulation, extrapolating load effects. 
+
+Please check your WIM data following SM_C Head Table.xlsx. 
+At least 49 columns are same as SM_C Head Table.xlsx, the rest part please fill by 0. 
+
+run SM_C_LR in Matlab
+
+if you have any question please contact:
+
+Hang Zhang 
+373035193@qq.com
+
+Michael Quilligan
+Michael.Quilligan@ul.ie
+
+Enjoy your code time 
+Hang
